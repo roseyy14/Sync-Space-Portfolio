@@ -1,0 +1,1 @@
+Here's the main screen with the common widgets including image, text, and buttons. I've included the Codes of each widgets.

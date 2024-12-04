@@ -1,0 +1,1 @@
+As you can see in the screenshot, there's a back navigation button at the top left that navigates you back to the homescreen.

@@ -1,0 +1,1 @@
+I've use Slide Transition for the logo and Fade Transition when the screen loads

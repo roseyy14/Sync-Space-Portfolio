@@ -1,0 +1,16 @@
+Scaffold
+│
+├── AppBar
+│   ├── Title (Text)
+│   └── Leading (IconButton)
+│
+└── Center
+    └── SingleChildScrollView
+        └── Column
+            ├── TextField (Email)
+            ├── Spacing
+            ├── TextField (Password)
+            ├── Spacing
+            └── Button (Log In)
+
+Here is the widget tree structure of the login screen of my app Sync Space
